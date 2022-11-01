@@ -1,0 +1,20 @@
+html {
+  background-color: rgb(255, 177, 122);
+  color: rgb(79, 71, 137);
+  font-family: "Verdana", "Helvetica", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(32, 19, 53);
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+a {
+  color: rgb(79, 71, 137);
+}
